@@ -1,6 +1,7 @@
 # Dictionary App
 
-#### This is a Android App developed using Python and API integration.
+#### This is a Android App developed using Python and API integration. We can search for the meaning of any word in English which is done using API.
+
 <div>
 <img  src="res/splashScreen.png" alt="luvksahu" height="480" width="260" display:inline/>
 <img  src="res/AppGif.gif" alt="luvksahu" height="480" width="260" />
